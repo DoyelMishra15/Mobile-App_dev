@@ -41,5 +41,15 @@ fun main(){
     /*multi line comment*/
 
      println("--------------")
+
+     var a=10
+    
+    a++
+    println(a)
+    
+    a--
+    println(a)
+
+    println("--------------")
     
 }
