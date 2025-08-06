@@ -88,5 +88,23 @@ fun main(){
         println("You are just a baby!!")
     }
 
+    println("--------------")
+
+     var season = 2
+    when (season){
+        1-> println("Summer Season")
+        2-> println("Rainy Season")
+        3-> println("Autumn Season")
+        4-> println("Winter Season")
+    }
+
      println("--------------")
+
+
+
+
+
+
+      println("--------------")
+    
 }
