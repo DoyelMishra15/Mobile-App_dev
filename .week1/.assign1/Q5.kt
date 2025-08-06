@@ -1,0 +1,23 @@
+fun estonia() = println("Estonia - Capital: Tallinn, River: Pärnu River")
+fun latvia() = println("Latvia - Capital: Riga, River: Daugava River")
+fun lithuania() = println("Lithuania - Capital: Vilnius, River: Neris River")
+fun switzerland() = println("Switzerland - Capital: Bern, River: Rhine River")
+fun india() = println("India - Capital: New Delhi, River: Ganga River")
+fun korea() = println("Korea (South) - Capital: Seoul, River: Han River")
+fun japan() = println("Japan - Capital: Tokyo, River: Shinano River")
+fun china() = println("China - Capital: Beijing, River: Yangtze River")
+fun usa() = println("USA - Capital: Washington, D.C., River: Mississippi River")
+fun belgium() = println("Belgium - Capital: Brussels, River: Meuse River")
+
+fun main() {
+    estonia()
+    latvia()
+    lithuania()
+    switzerland()
+    india()
+    korea()
+    japan()
+    china()
+    usa()
+    belgium()
+}
