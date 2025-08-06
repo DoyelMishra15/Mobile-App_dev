@@ -76,5 +76,21 @@ fun main(){
     println(a||b)
     println(!a)
 
-    
+    println("--------------")
+
+    var age = 22
+    if(age>=100){
+        println("You are an old monster!!")
+    }
+    else if(age>=60){
+        println("You are senior citizen")
+    }
+    else if(age>=18){
+        println("You are barely an adult!!")
+    }
+    else{
+        println("You are just a baby!!")
+    }
+
+     println("--------------")
 }
