@@ -25,4 +25,15 @@ fun main(){
     
     val char1 = 'Z'
     println(char1)
+
+    println("--------------")
+    
+    var a=10
+    var b=2
+    
+    println(a+b)
+    println(a-b)
+    println(a*b)
+    println(a/b)
+    println(a%b)
 }
