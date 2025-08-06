@@ -11,4 +11,18 @@ fun main(){
     
     val num1= 100
     println(num1)
+
+    println("--------------")
+    
+    val num1= 100
+    println(num1)
+    
+    val num2= 120.11
+    println(num2)
+    
+    val num3= 12000000.1100
+    println(num3)
+    
+    val char1 = 'Z'
+    println(char1)
 }
