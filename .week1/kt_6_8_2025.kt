@@ -141,6 +141,15 @@ fun main(){
 
     println("--------------")
 
+    var movies = listOf("The lord of rings","Avatar", "Nine Realms","XYZ","Aisha")
+    
+    for(mov in movies){
+        println(mov)
+    }
+
+    println("--------------")
+
+
 
 
 
