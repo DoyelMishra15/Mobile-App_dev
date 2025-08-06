@@ -52,6 +52,20 @@ fun main(){
 
     println("--------------")
 
+    var a=10
+    
+    a*=2
+    println(a)
+    
+    a-=2
+    println(a)
+    
+    a/=2
+    println(a)
+    
+    a%=2
+    println(a)
+    
 
     println("--------------")
 
