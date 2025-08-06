@@ -69,5 +69,12 @@ fun main(){
 
     println("--------------")
 
+    var a=true
+    var b=true
+    
+    println(a && b)
+    println(a||b)
+    println(!a)
+
     
 }
