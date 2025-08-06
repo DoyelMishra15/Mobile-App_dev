@@ -36,4 +36,10 @@ fun main(){
     println(a*b)
     println(a/b)
     println(a%b)
+
+    //single line comment
+    /*multi line comment*/
+
+     println("--------------")
+    
 }
