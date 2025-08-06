@@ -1,1 +1,26 @@
+Kotlin Programming:
+---------------------------------------------------------------------------------------------------------------------------------------------
 
+Kotlin is a high level programming language mainly used for the development of android applications.
+-It was developed by Google (jetBrains corporation).
+-Kotlin was created as an alternate to java PL.
+-Earlier they use java as the primary language for android applications development but for some reason google developed their language for android applications and it is called as kotlin.
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Advantages of Kotlin:
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+1.	Easy to learn
+2.	Easy to write code
+3.	Less code do more
+4.	Integration is easy
+5.	Used in frontend as well as backend
+6.	Used in servers also
+7.	Multiplatform support (android. Window, linux, Macos)
+
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Var--> mutable
+Val--> immutable
