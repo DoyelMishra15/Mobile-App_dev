@@ -101,10 +101,41 @@ fun main(){
      println("--------------")
 
 
+     var season = 2
+    when (season){
+        1-> println("MERCURY")
+        2-> println("VENUS")
+        3-> println("EARTH")
+        4-> println("MARS")
+        5-> println("MARS")
+        6-> println("JUPITER")
+        7-> println("SATURN")
+        8-> println("URANUS")
+        9-> println("NEPTUNE")
+    }
 
+    println("--------------")
 
+      var i=1
+    while(i<=10){
+        println(i)
+        i++
+    }
+    println("--------------")
 
-
-      println("--------------")
+    var i=1
     
+    do{
+        println(i)
+        i++
+    }
+    while(i<=10)
+    
+    println("--------------")
+
+
+
+    
+
+    println("--------------")
 }
